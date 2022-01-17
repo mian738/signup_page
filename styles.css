@@ -1,0 +1,57 @@
+.wrapper{
+    width: 85%;
+    margin: 0 auto;
+    border: 5px solid #FFFFFF;
+}
+.wrapper1{
+    border: 2px solid rgb(172, 169, 164);
+}
+.wrapper3{
+    margin-left: 50%;
+}
+.wrapper4{
+    margin-left: 30%;
+}
+label{
+    margin-left: 19px;
+    font-size: 25px;
+}
+.first_name,.sur_name{
+    margin-left: 19px;
+     width: 45%;
+    height: 30px;
+    padding: 10px;
+    font-size: 18px;
+
+}
+.email_num,._pass,.gender,.dob{
+    margin-left: 19px;
+    width: 94.2%;
+    height: 30px;
+    padding: 10px;
+    font-size: 18px;
+}
+.gender{
+    margin-left: 19px;
+    width:17% ;
+    
+}
+.para{
+    margin-left:19px ;
+}
+.button{
+   
+    font-size: 25px;
+    margin-left: 50;
+    background-color: #4CAF50;
+  border: none;
+  color: white;
+  padding: 16px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  
+  cursor: pointer;
+}
